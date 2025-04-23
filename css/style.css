@@ -477,7 +477,7 @@ body {
 
         ul {
           padding: 0 !important;
-
+ 
           li {
             border-bottom: 1px solid var(--clr-text);
             font-size: calc(var(--txt-paragraph) * .9);
